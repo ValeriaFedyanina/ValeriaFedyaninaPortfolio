@@ -37,11 +37,11 @@
 •	Создана таблица План-Факт Анализ по месяцам с фильтром по группе исследований.<br>
 •	Таблицы Топ 5 исследований по выручке и пациентопотоку, Топ 5 групп исследований по выручке и пациентопотоку и Топ врачей по выручке и пациентопотоку. <br>
   </ol>
-<div><img id="header" align="left"  width="640"  src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/общий%20скрин.png" /></div></h3>
+<div><img id="header" align="left"  width="60%"  src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/общий%20скрин.png" /></div></h3>
  <p float="left">
-  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/топ%20исследований.png" width="330" />
-  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/топ%20групп%20исследований.png" width="330" /> 
-  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/топ%20врачей.png" width="330" />
+  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/топ%20исследований.png" width="30%" />
+  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/топ%20групп%20исследований.png" width="30%" /> 
+  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20клиники%20со%20статистикой%20продаж/топ%20врачей.png" width="30%" />
 </p>
 
 ##
