@@ -84,9 +84,9 @@
  <p float="left">
   <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Прибыль.png" width="30%" />
   <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/АКБ.png" width="30%" />
-  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Средний%20чек.png" width="33%" /> 
-  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Рентабельность%2C%20%25.png" width="33%" />
-  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Затраты%20на%20логистику.png" width="33%" />
+  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Средний%20чек.png" width="32%" /> 
+  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Рентабельность%2C%20%25.png" width="32%" />
+  <img src="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/blob/main/Дашборд%20для%20копмании%20по%20продажу%20офисного%20оборудования/Затраты%20на%20логистику.png" width="32%" />
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------
