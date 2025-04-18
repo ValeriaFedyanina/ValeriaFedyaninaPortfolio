@@ -244,7 +244,6 @@
  <a href="https://miro.com/welcomeonboard/U0N6T3hxS0tPaWdoT0pGU3BLMEJHbWgxMWloSXNKcXFVYWNKNllLaDhHbHdCbXpKcTlaZ3dPc3RHOGM0RWRrZndIME53RElyY3YwMnkzYldKMDJBVnZyS2hGQWVJR3FEcWdFaEVSbEtzY0ROTTNhS3EzUktxbVZrQmFmYjNsYm1Bd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=897024006120">Посмотреть доску в miro</a><br>
  <a href="https://github.com/ValeriaFedyanina/ValeriaFedyaninaPortfolio/tree/b57b49d8cd15272e197b1d00e4743e1d167b2977/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B0">Посмотреть результаты</a>
 
-##
 
 --------------------------------------------------------------------------------------------------------------------------
 
